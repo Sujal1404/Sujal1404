@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I'm Sujal Dhanwij<br><br>🎯 Aspiring Data Analyst | Power BI | Python | SQL | Excel<br><br>I am a passionate and detail-oriented Data Analyst Fresher with a strong foundation in data cleaning, visualization, and statistical analysis.<br>I enjoy transforming raw data into meaningful insights that support business decision-making.<br>As a recent graduate stepping into the world of data analytics, I am continuously learning and building end-to-end projects to strengthen my analytical and problem-solving skills.<br><br>📊 Strong interest in Data Analysis and Business Intelligence<br><br>📈 Skilled in creating interactive dashboards using Power BI<br><br>🐍 Proficient in Python for data analysis (Pandas, NumPy, Matplotlib)<br><br>🗄 Good knowledge of SQL for data querying and manipulation<br><br>📑 Experienced in Excel (Pivot Tables, VLOOKUP, Power Query)<br><br>📚 Currently improving skills in forecasting and advanced analytics<br><br>🛠 Technical Skills<br><br>Languages & Tools:<br><br>Python<br><br>SQL<br><br>Power BI<br><br>Microsoft Excel<br><br>Git & GitHub<br><br>Data Analysis Skills:<br><br>Data Cleaning & Preprocessing<br><br>Exploratory Data Analysis (EDA)<br><br>Data Visualization<br><br>Dashboard Development<br><br>Basic Statistical Analysis<br><br>Forecasting Techniques<br><br>📂 Projects<br><br>🔹 App Insights Unlocked: A Data Analytics Challenge<br>      Tools: Python, Power BI, Tableau<br>       Performed app performance analysis including ratings, reviews, installs, and category trends using interactive dashboards.<br><br>🔹 Ecommerce Sales Dashboard<br>       Tools: Python, Power BI<br>      Developed a dynamic sales dashboard to monitor KPIs such as revenue, profit, and product performance.<br><br>🔹 Stock Market Financial Analysis & Forecasting System<br>        Tools: Python, Power BI<br>       Designed a financial analysis system to evaluate stock indicators and future price movements.<br><br>🔹 E-Commerce Business Intelligence<br>       Tools: Python, Power BI<br>       Built an end-to-end business intelligence solution to analyze sales performance, customer trends, and revenue insights.<br><br>🔹 Uber Data Analysis<br>      Tools: Python, SQL, Power BI<br>       Analyzed ride data to identify peak demand times, revenue patterns, and operational insights.
 
-<!--
-**Sujal1404/Sujal1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sujal-dhanwij-329520292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujaldhanwij.2022@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sujal1404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sujal1404&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal1404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sujal1404&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
